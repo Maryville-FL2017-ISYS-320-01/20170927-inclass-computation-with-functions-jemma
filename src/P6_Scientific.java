@@ -1,7 +1,7 @@
 /*
 	ISYS 320
-	Name(s):
-	Date: 
+	Name(s): Jacob and Emma
+	Date: Sept. 27
 */
 
 public class P6_Scientific {
